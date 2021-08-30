@@ -1,0 +1,42 @@
+
+{
+  "lanes": [
+    {
+      "id": "SORTED_LANE",
+      "title": "Sorted Lane",
+      "label": "20/70",
+      "cards": [
+        {
+          "id": "Card1",
+          "title": "Migration",
+          "label": "2017-12-01",
+          "description": "Migrate to Opp",
+          "metadata": {
+            "completedAt": "2017-12-01T10:00:00Z",
+            "shortCode": "abc"
+          }
+        },
+        {
+          "id": "Card2",
+          "title": "Update Stale Tenant",
+          "label": "2017-11-01",
+          "description": "Update Stale Tenant when app has not been restarted",
+          "metadata": {
+            "completedAt": "2017-11-01T10:00:00Z",
+            "shortCode": "aaa"
+          }
+        },
+        {
+          "id": "Card3",
+          "title": "Accessibility",
+          "label": "2017-10-01",
+          "description": "Done button Accessibility bug in change language",
+          "metadata": {
+            "completedAt": "2017-10-01T10:00:00Z",
+            "shortCode": "fa1"
+          }
+        }
+      ]
+    }
+  ]
+}

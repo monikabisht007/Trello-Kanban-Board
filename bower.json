@@ -1,0 +1,15 @@
+{
+  "name": "Kanban-Board",
+  "description": "Trello like kanban board for showing status of stories",
+  "main": "dist/index.js",
+  "authors": [
+   "Monika"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

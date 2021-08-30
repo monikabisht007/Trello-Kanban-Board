@@ -1,0 +1,37 @@
+{
+  "lanes": [
+    {
+      "id": "yesterday",
+      "title": "Yesterday",
+      "label": "20/70",
+      "cards": [
+        {
+          "id": "Update Stale Tenant",
+          "title": "User Story PRO-87445",
+          "label": "30 mins",
+          "description": "Update Stale Tenant when app has not been restarted"
+        }
+      ]
+    },
+    {
+      "id": "today",
+      "title": "Today",
+      "label": "10/20",
+      "droppable": false,
+      "cards": [
+        {
+          "id": "Migration",
+          "title": "User Story PRO-87446",
+          "label": "15 mins",
+          "description": "Migrate to Opp"
+        }
+      ]
+    },
+    {
+      "id": "tomorrow",
+      "title": "Tomorrow",
+      "label": "0/0",
+      "cards": []
+    }
+  ]
+}
